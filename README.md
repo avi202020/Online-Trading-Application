@@ -20,6 +20,8 @@ The order is then recieved by the **Exchange** electronically and I have written
 
 When a trade is completed it then goes to the **clearing coorporation** to clear and settle all the amount and security balances.
 
+![alt tag](https://github.com/ruchigupta19/Online-Trading-Application/blob/master/trade.PNG)
+
 Use cases of an investor:
 1. Sign up
 2. Register with a Trader/Broker
